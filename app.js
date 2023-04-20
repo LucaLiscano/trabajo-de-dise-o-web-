@@ -1,0 +1,1 @@
+document.getElementById('texto').innerHTML="Federico Santiago Valverde Dipetta (Montevideo; Uruguay, 22 de julio de 1998), conocido deportivamente como Fede Valverde, es un futbolista uruguayo que juega como centrocampista en el Real Madrid C. F. de la Primera División de España.";
