@@ -3,16 +3,30 @@ margin: 0;
 padding: 0;	
 }
 
-body{
+
+.banner{
 	text-align: center;
+	color: white;
+	padding: 300px;
+	background-image: linear-gradient(
+		0deg,
+		rgba(0, 0, 0, 0.8),
+		rgba(0, 0, 0, 0.8)
+	  ),
+	  url(https://st1.uvnimg.com/06/08/d8d2ee82476a8dacbe415ab5fdab/federico-valverde-palabras-baena.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
 }
 
-
-img{
-	width: 500px;
-	height: 500px;
+.information {
+	color: white;
+	background-color: black;
+	padding: 100px;
+	text-align: center;
+	font-size: 30px;
 }
 
-.Biografia{
-	padding: 50px;
+.information div{
+	text-align: center;
 }
